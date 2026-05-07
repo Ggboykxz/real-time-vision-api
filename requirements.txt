@@ -18,3 +18,4 @@ python-dotenv==1.0.0
 aiofiles==23.2.1
 requests==2.32.4
 aiohttp==3.9.1 
+pyarrow==14.0.1
